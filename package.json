@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "events": "^3.3.0"
+  },
+  "name": "orvillebot",
+  "version": "1.0.0",
+  "description": "a fun little bot for me and my friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "charbar737",
+  "license": "ISC"
+}
